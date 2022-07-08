@@ -1,17 +1,19 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-In this project, we explore varying Kickstarter campaigns with their varying data to help Louise experience a successful campaign for her Play. Below you will find more information of what this project entailed and a deeper dive into its results and conclusions.
+In this project, we explore varying Kickstarter campaigns with their varying data to help Louise experience a successful campaign for her play, Fever. Below you will find more information of what this project entailed and a deeper dive into its results and conclusions.
 
 ### Purpose
-we were able to explore different skills. learn applicable and transferable knowledge and skills.
+Louise is an up and coming playwriter and has turned to our expertise in Excel to ensure a successful crowdfunding campaign. She forecasts that her play will have a budget larger than $10,000.00 and is evidently hesitant to jump into her first crowdfunding campaign. With the use of Pivot Tables, Charts, and other excel skills, we will assist her in finding specific factors to help her project become successful.
 
 ## Analysis and Challenges
 
 ### Overview of analysis
 The main findings of this analysis were as follows:
-1. Find a correlation between launch date and success rater
-2. Find a correlation between goals and pledged amount as a function of their wtv
+
+#### Outcomes Based on Launch Date
+
+#### Outcomes Based on Goals
 
 ### Challenges and/or difficulties
 Here we discribe different challenges we may or may not have encountered and different solutions. Listed below are some of these examples:
