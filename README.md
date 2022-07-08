@@ -9,11 +9,13 @@ Louise is an up and coming playwriter and has turned to our expertise in Excel t
 ## Analysis and Challenges
 
 ### Overview of analysis
-The main findings of this analysis were as follows:
+There were two main analysis that were done for this project. As per below, you will find one analysis that compares the number of of Successful, Failed, and Canceled Theater campaigns relative to their launch month. The second analysis focused on the percentage of successfull, Failed, and Cancelled Campaigns relating to Plays based on their goals. The main findings of this analysis were as follows:
 
-#### Outcomes Based on Launch Date
-
-#### Outcomes Based on Goals
+#### Outcome of Theater Campaigns Based on Launch Date
+![Outcomes vs Launch Date](https://github.com/yaakoum/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+As seen on the line chart above, we can see that most theater campaigns were successful and there was a correlation between the month they were launched on. Most Successfull ones were launched in the month of May while 
+#### Outcome of Campaigns related to Plays Based on Goals
+![Outcomes vs Goals](https://github.com/yaakoum/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and/or difficulties
 Here we discribe different challenges we may or may not have encountered and different solutions. Listed below are some of these examples:
